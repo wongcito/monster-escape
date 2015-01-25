@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:07fb595fb6d6154847dc8182990ed5d0:d8d1cee8381b23a8f0435795c67e29ba:915bcd1580d72ad559425975e7acdb85$ -->
+<TextureAtlas imagePath="monster.png">
+    <SubTexture name="Monstre1" x="2" y="2" width="1024" height="768"/>
+    <SubTexture name="Monstre2" x="2" y="2" width="1024" height="768"/>
+    <SubTexture name="Monstre3" x="1028" y="2" width="1024" height="768"/>
+    <SubTexture name="Monstre4" x="1028" y="2" width="1024" height="768"/>
+    <SubTexture name="Monstre5" x="2" y="772" width="1024" height="768"/>
+    <SubTexture name="Monstre6" x="2" y="772" width="1024" height="768"/>
+    <SubTexture name="Monstre7" x="1028" y="772" width="1024" height="768"/>
+    <SubTexture name="Monstre8" x="1028" y="772" width="1024" height="768"/>
+</TextureAtlas>

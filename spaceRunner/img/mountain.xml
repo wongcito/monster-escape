@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:20a98f26ab856c89f028595bb4dc59d5:f86b308ffab0d24c1a94b663b57b6b9f:6f4f23847fe7bfad18e4853c3c507c7b$ -->
+<TextureAtlas imagePath="mountain.png">
+    <SubTexture name="Montagnes00000" x="2" y="2" width="1024" height="768"/>
+    <SubTexture name="Montagnes00001" x="2" y="2" width="1024" height="768"/>
+    <SubTexture name="Montagnes00002" x="2" y="2" width="1024" height="768"/>
+    <SubTexture name="Montagnes00003" x="2" y="772" width="1024" height="768"/>
+    <SubTexture name="Montagnes00004" x="2" y="772" width="1024" height="768"/>
+    <SubTexture name="Montagnes00005" x="2" y="772" width="1024" height="768"/>
+    <SubTexture name="Montagnes00006" x="2" y="1542" width="1024" height="768"/>
+    <SubTexture name="Montagnes00007" x="2" y="1542" width="1024" height="768"/>
+    <SubTexture name="Montagnes00008" x="2" y="1542" width="1024" height="768"/>
+</TextureAtlas>

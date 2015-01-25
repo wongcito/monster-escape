@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e503e19be176fef4254509e6b94c9d9d:5cc3ae079afcfdfec6ade71e6d2169b5:f583c99b0256bb24b3f90caeccbbb01f$ -->
+<TextureAtlas imagePath="ground.png">
+    <SubTexture name="sol00000" x="2" y="2" width="1024" height="768"/>
+    <SubTexture name="sol00001" x="2" y="772" width="1024" height="768"/>
+    <SubTexture name="sol00002" x="2" y="1542" width="1024" height="768"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b8bd4056777d50def6c1ed58f3db4ba4:db9ed1e319ef465a0537ea5bab00e7cc:ab3425428462276e4cd149d67f3a20e0$ -->
+<TextureAtlas imagePath="smallrocksrightcenter.png">
+    <SubTexture name="caillous00000032" x="2" y="2" width="1024" height="227"/>
+    <SubTexture name="caillous00001033" x="2" y="2" width="1024" height="227"/>
+    <SubTexture name="caillous00002034" x="2" y="231" width="1024" height="227"/>
+    <SubTexture name="caillous00003035" x="2" y="231" width="1024" height="227"/>
+    <SubTexture name="caillous00004036" x="2" y="460" width="1024" height="227"/>
+    <SubTexture name="caillous00005037" x="2" y="460" width="1024" height="227"/>
+    <SubTexture name="caillous00006038" x="2" y="689" width="1024" height="227"/>
+    <SubTexture name="caillous00007039" x="2" y="689" width="1024" height="227"/>
+    <SubTexture name="caillous00008040" x="2" y="918" width="1024" height="227"/>
+    <SubTexture name="caillous00009041" x="2" y="918" width="1024" height="227"/>
+</TextureAtlas>

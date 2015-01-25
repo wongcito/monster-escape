@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:049324a649cdd41a91dddd8840095fce:c98f323b1c9479fcd23c60341ad72a5d:bb12660456c24c287ae9ca6bf129d0d5$ -->
+<TextureAtlas imagePath="press.png">
+    <SubTexture name="pressA" x="2" y="2" width="370" height="21" frameX="-44" frameY="-36" frameWidth="448" frameHeight="87"/>
+    <SubTexture name="pressB" x="374" y="2" width="370" height="21" frameX="-44" frameY="-36" frameWidth="448" frameHeight="87"/>
+</TextureAtlas>

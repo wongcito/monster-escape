@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:212a1b4dcf8f6bb82866884c0af28df9:54906406d41f3b86f30ff384d6f496ba:15fffa7a030f29d2dd48caa86a323cb4$ -->
+<TextureAtlas imagePath="bigrocksleftcenter.png">
+    <SubTexture name="caillous00021022" x="2" y="2" width="1024" height="227"/>
+    <SubTexture name="caillous00022023" x="2" y="2" width="1024" height="227"/>
+    <SubTexture name="caillous00023024" x="2" y="2" width="1024" height="227"/>
+    <SubTexture name="caillous00024025" x="2" y="231" width="1024" height="227"/>
+    <SubTexture name="caillous00025026" x="2" y="231" width="1024" height="227"/>
+    <SubTexture name="caillous00026027" x="2" y="231" width="1024" height="227"/>
+    <SubTexture name="caillous00027028" x="2" y="460" width="1024" height="227"/>
+    <SubTexture name="caillous00028029" x="2" y="460" width="1024" height="227"/>
+    <SubTexture name="caillous00029030" x="2" y="460" width="1024" height="227"/>
+    <SubTexture name="caillous00030031" x="2" y="689" width="1024" height="227"/>
+    <SubTexture name="caillous00031032" x="2" y="689" width="1024" height="227"/>
+    <SubTexture name="caillous00032033" x="2" y="689" width="1024" height="227"/>
+    <SubTexture name="caillous00033034" x="2" y="918" width="1024" height="227"/>
+    <SubTexture name="caillous00034035" x="2" y="918" width="1024" height="227"/>
+    <SubTexture name="caillous00035036" x="2" y="918" width="1024" height="227"/>
+    <SubTexture name="caillous00036037" x="2" y="1147" width="1024" height="227"/>
+    <SubTexture name="caillous00037038" x="2" y="1147" width="1024" height="227"/>
+    <SubTexture name="caillous00038039" x="2" y="1147" width="1024" height="227"/>
+    <SubTexture name="caillous00039040" x="2" y="1376" width="1024" height="227"/>
+    <SubTexture name="caillous00040041" x="2" y="1376" width="1024" height="227"/>
+    <SubTexture name="caillous00041042" x="2" y="1376" width="1024" height="227"/>
+    <SubTexture name="caillous00042043" x="2" y="1605" width="1024" height="227"/>
+    <SubTexture name="caillous00043044" x="2" y="1605" width="1024" height="227"/>
+    <SubTexture name="caillous00044045" x="2" y="1605" width="1024" height="227"/>
+</TextureAtlas>

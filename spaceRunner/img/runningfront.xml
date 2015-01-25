@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:65193ff9b9566f9900710d75639b65f5:28b8c0b429bdbc5b9960ce2b3c4fc0cd:66eb37d7613266656412b91db2b00881$ -->
+<TextureAtlas imagePath="runningfront.png">
+    <SubTexture name="course00000 copie" x="2" y="2" width="216" height="318"/>
+    <SubTexture name="course00001" x="220" y="2" width="216" height="318"/>
+    <SubTexture name="course00002 copie" x="2" y="322" width="216" height="318"/>
+    <SubTexture name="course00003 copie" x="220" y="322" width="216" height="318"/>
+    <SubTexture name="course00004 copie" x="2" y="642" width="216" height="318"/>
+    <SubTexture name="course00005 copie" x="220" y="642" width="216" height="318"/>
+    <SubTexture name="course00006 copie" x="2" y="962" width="216" height="318"/>
+    <SubTexture name="course00007 copie" x="220" y="962" width="216" height="318"/>
+    <SubTexture name="course00008 copie" x="2" y="1282" width="216" height="318"/>
+    <SubTexture name="course00009 copie" x="220" y="1282" width="216" height="318"/>
+</TextureAtlas>
